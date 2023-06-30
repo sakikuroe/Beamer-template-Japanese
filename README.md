@@ -1,5 +1,7 @@
 # 日本語の Beamer 用テンプレート
 
+[PDF](./out/main.pdf)
+
 # 使い方
 ```
 $ latexmk main.tex
