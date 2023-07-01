@@ -5,7 +5,7 @@
 ![Alt text](out/image-04.png)
 
 ## 概要
-- Lua$\LaTeX$ と Latexmk を使って作成しています
+- LuaLaTeX と Latexmk を使って作成しています
 - フォントは Noto Sans CJK JP を使っています
 - [サンプルのPDF](./out/main.pdf)
 
